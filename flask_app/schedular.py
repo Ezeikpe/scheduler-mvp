@@ -42,7 +42,7 @@ def markcompleted():
 #creating the initial window
 window=Tk()
 #giving a title
-window.title("DataFlair To_Do_APP")
+window.title("Schedular - a To-Do List Solution")
 
 
 #Frame widget to hold the listbox and the scrollbar
@@ -72,5 +72,3 @@ mark_button.pack(pady=3)
 
 
 window.mainloop()
-
-
